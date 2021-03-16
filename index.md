@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: El Colmillo Blanco
 white_header: true
 sections:
   - type: hero_section
